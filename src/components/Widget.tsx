@@ -43,7 +43,7 @@ export default function Widget() {
               <p className={`
                   text-sm
                   leading-relaxed
-                  text-zinc-600
+                  text-zinc-800
                   dark:text-zinc-100
               `}>
                 Você recebeu um convite para fazer parte da empresa Rocketseat.
@@ -71,7 +71,7 @@ export default function Widget() {
               <p className={`
                   text-sm
                   leading-relaxed
-                  text-zinc-600
+                  text-zinc-800
                   dark:text-zinc-100
               `}>
                 Você recebeu um convite para fazer parte da empresa Rocketseat.
@@ -137,8 +137,8 @@ export default function Widget() {
               <p className={`
                   text-sm
                   leading-relaxed
-                  text-zinc-600
-                  dark:text-zinc-100
+                  text-zinc-500
+                  dark:text-zinc-400
               `}>
                 Você recebeu um convite para fazer parte da empresa Rocketseat.
               </p>
@@ -165,7 +165,7 @@ export default function Widget() {
               <p className={`
                   text-sm
                   leading-relaxed
-                  text-zinc-600
+                  text-zinc-500
                   dark:text-zinc-400
               `}>
                 Você recebeu um convite para fazer parte da empresa Rocketseat.
